@@ -1,0 +1,54 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Fixed 002",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-01-30T20:52:53.589Z"
+    },
+    {
+      "message": "Hardware failed in workstation 0",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-01-27T04:26:30.977Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "1122 wireless down1111",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-01-30T20:52:43.206Z"
+    },
+    {
+      "id": 4,
+      "message": "112233",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2021-01-27T04:35:06.394Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Hanenko",
+      "id": 4
+    }
+  ]
+}
